@@ -1,0 +1,2 @@
+python3 monodepth_main.py --mode test --data_path ~/Desktop/binocular/resized_halfscale_test/ --input_width 1024 --input_height 512 --filenames_file binocular_test.txt --log_directory ~/tmp/ --checkpoint_path ~/tmp/test_model_half/model-50200
+

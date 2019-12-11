@@ -1,0 +1,1 @@
+python3 monodepth_main.py --mode train --model_name test_model2  --data_path ~/Desktop/binocular/resized/ --filenames_file binocular.txt  --log_directory ~/tmp/ --retrain --checkpoint_path ~/tmp/test_model2/model-25050

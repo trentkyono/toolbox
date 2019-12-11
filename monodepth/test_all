@@ -1,0 +1,2 @@
+python3 monodepth_main.py --mode test --data_path ~/Desktop/binocular/resized/ --input_width 1024 --input_height 512 --filenames_file binocular.txt --log_directory ~/tmp/ --checkpoint_path ~/tmp/test_model_cropped/model-10000
+

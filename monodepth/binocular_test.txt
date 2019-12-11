@@ -1,0 +1,5 @@
+stereo_test_42570_left.jpg stereo_test_42570_right.jpg
+stereo_test_42600_left.jpg stereo_test_42600_right.jpg
+stereo_test_42630_left.jpg stereo_test_42630_right.jpg
+stereo_test_42660_left.jpg stereo_test_42660_right.jpg
+stereo_test_47760_left.jpg stereo_test_47760_right.jpg

@@ -1,0 +1,1 @@
+python3 monodepth_main.py --mode train --model_name test_model2 --learning_rate 1e-4 --num_epochs 200 --input_width 768 --input_height 512 --data_path ~/Desktop/binocular/resized/ --filenames_file binocular.txt  --log_directory ~/tmp/
